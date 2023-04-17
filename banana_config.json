@@ -1,0 +1,15 @@
+{
+    "name": "Camel🐪5b",
+    "category": "Natural Language",
+    "example_input": {
+        "prompt": "My favorite part about being an AI is"
+    },
+    "example_output": {
+        "outputs": [
+            {
+                "generated_text": "My favorite part about being an AI is the ability to learn and adapt, allowing me to improve my performance and meet the evolving needs of my users."
+            }
+        ]
+    },
+    "version": "1"
+}
