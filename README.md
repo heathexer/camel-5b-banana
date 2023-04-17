@@ -1,11 +1,5 @@
 # Camel 🐪 5B
 
-<style>
-img {
- display: inline;
-}
-</style>
-
 ## 🍌 Banana Serverless
 
 This repo gives a framework to serve ML models in production using simple HTTP servers.
